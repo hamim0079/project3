@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HP Foods</title>
+  <style>
+    .f {
+      border: 1px solid black;
+      width: 20%;
+      height: 650px;
+      text-align: center;
+      display: inline-block;
+      float: left;
+    }
+    .s {
+      border: 1px solid black;
+      width: 78%;
+      height: 80px;
+      text-align: center;
+      float: left;
+    }
+    .order {
+      border: 2px solid black;
+      padding: 1em;
+      border-color: red;
+    }
+    .t {
+      width: 60%;
+      margin-left: 20%;
+    }
+  </style>
+</head>
+<body background="res.jpg">
+  <aside>
+    <div class="f"><br><br><br><br><br><br><br>
+      <h1><b>Welcome to HP Restaurant</b></h1>
+      <h4><b>Order delicious food online, 100% quality, safety and taste assured.</b></h4>
+      <h2><b>CALL 017XXXXXX28 FOR RESERVATIONS</b></h2>
+      <div class="t">
+        <p class="order">Order Now</p>
+      </div>
+    </div>
+    <div class="s">
+      <h3>Home &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Menu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAQ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Source Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></h3>
+    </div>
+  </aside>
+</body>
+</html>
